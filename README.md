@@ -29,7 +29,7 @@ Script em Python para automatizar a coleta de dados em um sistema utilizando PyA
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+git clone https://github.com/cauau/rpa-coleta-dados-excel.git
 cd SEU-REPO
 ```
 
